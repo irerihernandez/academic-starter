@@ -59,7 +59,8 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: uploads/HernandezIreri_resume.pdf
+   url: uploads/HernandezIreri_resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ireri.hernandez@phd.unibocconi.it
