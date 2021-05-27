@@ -74,5 +74,3 @@ I am a PhD student at Bocconi University in Milan, Italy. My research interests 
 
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/HernandezIreri_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} {{% staticref "uploads/HernandezIreri_resume.pdf" %}}Download my CV{{% /staticref %}}
-
