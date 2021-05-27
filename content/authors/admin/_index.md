@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   url: uploads/HernandezIreri_resume.pdf
+   link: uploads/HernandezIreri_resume.pdf
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -72,4 +72,4 @@ highlight_name: false
 I am a PhD student at Bocconi University in Milan, Italy. My research interests include health, environmental policy, development and political behavior. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/HernandezIreri_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
